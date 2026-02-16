@@ -1,4 +1,4 @@
-** Customer Behavior Analysis
+**Customer Behavior Analysis
  Overview**
 
 This project is an end-to-end data analytics workflow that uncovers meaningful insights from customer transaction data using Python, SQL, and Power BI. The analysis includes loading and cleaning data, performing Exploratory Data Analysis (EDA), executing analytical queries in a SQL database (e.g., PostgreSQL, MySQL, or SQL Server), building a dynamic Power BI dashboard, and producing a report and presentation with Gamma. The goal is to support data-driven decisions for business stakeholders.
@@ -18,7 +18,7 @@ Product purchase details
 Demographic attributes
 
 
-** Tools & Technologies**
+**Tools & Technologies**
 | Task                        | Tool                                          |
 | --------------------------- | --------------------------------------------- |
 | Data loading & cleaning     | Python (pandas, numpy)                        |
